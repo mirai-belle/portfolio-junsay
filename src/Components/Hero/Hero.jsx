@@ -1,12 +1,12 @@
 import "../../Global.css";
-import Avatar from "../../Assets/profile.png";
+import Avatar from "../../Assets/profile.jpg";
 import "./Hero.css";
 import Pill from "../Pill/Pill";
 
 function Hero({
   name = "Myrr Junsay",
   role = "Student Developer",
-  description = "I'm a Computer Science student slash wannabee student developer who loves (loves?!) and prefers backend work but is exploring full stack development. Always learning, always building. Woah.",
+  description = "I'm a Computer Science student slash wannabe student developer who loves (loves?!) and prefers backend work but is exploring full stack development. Always learning, sometimes building. Woah.",
   email = "mbelle.junsay@gmail.com",
   mobile = "+ 63 928 086 7008",
   linkedin = "https://linkedin.com/in/myrrheabellejunsay",
